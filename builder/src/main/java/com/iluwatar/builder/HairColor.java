@@ -33,7 +33,10 @@ public enum HairColor {
   BLOND,
   RED,
   BROWN,
-  BLACK;
+  BLACK,
+	GREEN,
+	BLUE,
+	PURPLE;
 
   @Override
   public String toString() {
